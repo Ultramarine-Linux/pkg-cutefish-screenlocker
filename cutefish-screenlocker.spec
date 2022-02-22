@@ -9,7 +9,7 @@
 Name: cutefish-%{component_name}
 Version: 0.5
 #Version: %%{version}git.%%(date +%Y%m%d).%%{git_refspec_short}
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: GPLv3
 Summary: System screen locker for Cutefish Desktop
 
